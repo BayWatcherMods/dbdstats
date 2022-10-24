@@ -4,175 +4,320 @@
       "Name":"Trapper",
       "Perk1":"unnervingPresence.png",
       "Perk2":"brutalStrength.png",
-      "Perk3":"agitation.png"
+      "Perk3":"agitation.png",
+      "VisSpeed":"4,6",
+      "InvSpeed":"NULL",
+      "Terror":"32",
+      "Gender":"Male",
+      "Example":"Evan MacMillan"
     },
 {
       "Name":"Wraith",
       "Perk1":"predator.png",
       "Perk2":"bloodhound.png",
-      "Perk3":"shadowborn.png"
+      "Perk3":"shadowborn.png",
+      "VisSpeed":"4,6",
+      "InvSpeed":"6,0",
+      "Terror":"32",
+      "Gender":"Male",
+      "Example":"Philip Ojomo"
     },
 {
       "Name":"Hillbilly",
       "Perk1":"enduring.png",
       "Perk2":"lightborn.png",
-      "Perk3":"tinkerer.png"
+      "Perk3":"tinkerer.png",
+      "VisSpeed":"4,6",
+      "InvSpeed":"9,2",
+      "Terror":"32",
+      "Gender":"Male",
+      "Example":"Max Thompson Jr."
     },
 {
       "Name":"Nurse",
       "Perk1":"stridor.png",
       "Perk2":"thanatophobia.png",
-      "Perk3":"aNursesCalling.png"
+      "Perk3":"aNursesCalling.png",
+      "VisSpeed":"3,85",
+      "InvSpeed":"13,33",
+      "Terror":"32",
+      "Gender":"Female",
+      "Example":"Sally Smithson"
     },
 {
       "Name":"Shape",
       "Perk1":"saveTheBestForLast.png",
       "Perk2":"playWithYourFood.png",
-      "Perk3":"dyingLight.png"
+      "Perk3":"dyingLight.png",
+      "VisSpeed":"4,2",
+      "InvSpeed":"4,6",
+      "Terror":"0 / 16 / 32",
+      "Gender":"Male",
+      "Example":"Michael Myers"
     },
 {
       "Name":"Hag",
       "Perk1":"hexTheThirdSeal.png",
       "Perk2":"hexRuin.png",
-      "Perk3":"hexDevourHope.png"
+      "Perk3":"hexDevourHope.png",
+      "VisSpeed":"4,4",
+      "InvSpeed":"NULL",
+      "Terror":"24",
+      "Gender":"Female",
+      "Example":"Lisa Sherwood"
     },
 {
       "Name":"Doctor",
       "Perk1":"overwhelmingPresence.png",
       "Perk2":"monitorAndAbuse.png",
-      "Perk3":"overcharge.png"
+      "Perk3":"overcharge.png",
+      "VisSpeed":"4,6",
+      "InvSpeed":"NULL",
+      "Terror":"32",
+      "Gender":"Male",
+      "Example":"Herman Carter"
     },
 {
       "Name":"Huntress",
       "Perk1":"beastOfPrey.png",
       "Perk2":"territorialImperative.png",
-      "Perk3":"hexHuntressLullaby.png"
+      "Perk3":"hexHuntressLullaby.png",
+      "VisSpeed":"4,4",
+      "InvSpeed":"3,08",
+      "Terror":"20",
+      "Gender":"Female",
+      "Example":"Anna"
     },
 {
       "Name":"Cannibal",
       "Perk1":"knockOut.png",
       "Perk2":"barbecueAndChilli.png",
-      "Perk3":"franklinsDemise.png"
+      "Perk3":"franklinsDemise.png",
+       "VisSpeed":"4,6",
+      "InvSpeed":"NULL",
+      "Terror":"32",
+      "Gender":"Male",
+      "Example":"Bubba (Junior) Sawyer"
     },
 {
       "Name":"Nightmare",
       "Perk1":"fireUp.png",
       "Perk2":"rememberMe.png",
-      "Perk3":"bloodWarden.png"
+      "Perk3":"bloodWarden.png",
+       "VisSpeed":"4,6",
+      "InvSpeed":"NULL",
+      "Terror":"32",
+      "Gender":"Male",
+      "Example":"Frederick (Freddy) Charles Krueger"
     },
 {
       "Name":"Pig",
       "Perk1":"hangmansTrick.png",
       "Perk2":"surveillance.png",
-      "Perk3":"makeYourChoice.png"
+      "Perk3":"makeYourChoice.png",
+       "VisSpeed":"4,6",
+      "InvSpeed":"3,6 - 6,4",
+      "Terror":"32",
+      "Gender":"Female",
+      "Example":"Amanda Young"
     },
 {
       "Name":"Clown",
       "Perk1":"bamboozle.png",
       "Perk2":"coulrophobia.png",
-      "Perk3":"popGoesTheWeasel.png"
+      "Perk3":"popGoesTheWeasel.png",
+       "VisSpeed":"4,6",
+      "InvSpeed":"NULL",
+      "Terror":"32",
+      "Gender":"Male",
+      "Example":"Kenneth (Jeffrey Hawk) Chase"
     },
 {
       "Name":"Spirit",
       "Perk1":"spiritFury.png",
       "Perk2":"hexHauntedGround.png",
-      "Perk3":"rancor.png"
+      "Perk3":"rancor.png",
+       "VisSpeed":"4,4",
+      "InvSpeed":"7,04",
+      "Terror":"24",
+      "Gender":"Female",
+      "Example":"Rin Yamaoka"
     },
 {
       "Name":"Legion",
       "Perk1":"Discordance.png",
       "Perk2":"MadGrit.png",
-      "Perk3":"IronMaiden.png"
+      "Perk3":"IronMaiden.png",
+       "VisSpeed":"4,6",
+      "InvSpeed":"5,2",
+      "Terror":"32 - 40",
+      "Gender":"Male & Female",
+      "Example":"Frank Morrison, Julie Kostenko, Susie Lavoie und Joey"
     },
 {
       "Name":"Plague",
       "Perk1":"corruptIntervention.png",
       "Perk2":"infectiousFright.png",
-      "Perk3":"darkDevotion.png"
+      "Perk3":"darkDevotion.png",
+       "VisSpeed":"4,6",
+      "InvSpeed":"NULL",
+      "Terror":"32",
+      "Gender":"Female",
+      "Example":"Adiris"
     },
 {
       "Name":"Ghost Face",
       "Perk1":"imAllEars.png",
       "Perk2":"thrillingTremors.png",
-      "Perk3":"furtiveChase.png"
+      "Perk3":"furtiveChase.png",
+       "VisSpeed":"4,6",
+      "InvSpeed":"3,6",
+      "Terror":"32",
+      "Gender":"Male",
+      "Example":"Danny (Jed Olsen) Johnson"
     },
 {
       "Name":"Demogorgon",
       "Perk1":"",
       "Perk2":"",
-      "Perk3":""
+      "Perk3":"",
+       "VisSpeed":"4,6",
+      "InvSpeed":"NULL",
+      "Terror":"32",
+      "Gender":"Unknown",
+      "Example":"Unknown"
     },
 {
       "Name":"Oni",
       "Perk1":"zanshinTactics.png",
       "Perk2":"bloodEcho.png",
-      "Perk3":"nemesis_perk.png"
+      "Perk3":"nemesis_perk.png",
+       "VisSpeed":"4,6",
+      "InvSpeed":"3,45 - 7,82",
+      "Terror":"32",
+      "Gender":"Male",
+      "Example":"Kazan Yamaoka"
     },
 {
       "Name":"Deathslinger",
       "Perk1":"gearhead.png",
       "Perk2":"deadMansSwitch.png",
-      "Perk3":"hexRetribution.png"
+      "Perk3":"hexRetribution.png",
+       "VisSpeed":"4,4",
+      "InvSpeed":"NULL",
+      "Terror":"32",
+      "Gender":"Male",
+      "Example":"Caleb Quinn"
     },
 {
       "Name":"Executioner",
       "Perk1":"forcedPenance.png",
       "Perk2":"trailOfTorment.png",
-      "Perk3":"deathbound.png"
+      "Perk3":"deathbound.png",
+       "VisSpeed":"4,6",
+      "InvSpeed":"3,68 - 4,4",
+      "Terror":"32",
+      "Gender":"Male",
+      "Example":"Pyrimid Head"
     },
 {
       "Name":"Blight",
       "Perk1":"Dragons_grip.png",
       "Perk2":"hexbloodfavour.png",
-      "Perk3":"HexUndying.png"
+      "Perk3":"HexUndying.png",
+       "VisSpeed":"4,6",
+      "InvSpeed":"9,2",
+      "Terror":"32",
+      "Gender":"Male",
+      "Example":"Talbot Grimes"
     },
 {
       "Name":"Twins",
       "Perk1":"hoarder.png",
       "Perk2":"oppression.png",
-      "Perk3":"coupDeGrace.png"
+      "Perk3":"coupDeGrace.png",
+       "VisSpeed":"4,6 (Charlotte)",
+      "InvSpeed":"6,0 (Victor)",
+      "Terror":"32",
+      "Gender":"Male & Female",
+      "Example":"Victor & Charlotte Deshayes"
     },
 {
       "Name":"Trickster",
       "Perk1":"starstruck.png",
       "Perk2":"hexCrowdControl.png",
-      "Perk3":"noWayOut.png"
+      "Perk3":"noWayOut.png",
+       "VisSpeed":"4,4",
+      "InvSpeed":"3,86",
+      "Terror":"24",
+      "Gender":"Male",
+      "Example":"Ji-Woon Hak (학지운)"
     },
 {
       "Name":"Nemesis",
       "Perk1":"lethalPursuer.png",
       "Perk2":"hysteria.png",
-      "Perk3":"eruption.png"
+      "Perk3":"eruption.png",
+       "VisSpeed":"4,6",
+      "InvSpeed":"3,8 (MR1 & MR2) - 4,0 (MR3)",
+      "Terror":"32",
+      "Gender":"Male",
+      "Example":"Nemesis T-Type"
     },
 {
       "Name":"Cenobite",
       "Perk1":"deadlock.png",
       "Perk2":"hexPlaything.png",
-      "Perk3":"scourgeHookGiftOfPain.png"
+      "Perk3":"scourgeHookGiftOfPain.png",
+       "VisSpeed":"4,6",
+      "InvSpeed":"NULL",
+      "Terror":"32",
+      "Gender":"Male",
+      "Example":"Elliot Spencer / Pinhead"
     },
 {
       "Name":"Artist",
       "Perk1":"grimEmbrace.png",
       "Perk2":"scourgeHookPainResonance.png",
-      "Perk3":"hexPentimento.png"
+      "Perk3":"hexPentimento.png",
+       "VisSpeed":"4,6",
+      "InvSpeed":"NULL",
+      "Terror":"32",
+      "Gender":"Female",
+      "Example":"Carmina Mora"
     },
 {
       "Name":"Onryō",
       "Perk1":"scourgeHookFloodsOfRage.png",
       "Perk2":"callOfBrine.png",
-      "Perk3":"mercilessStorm.png"
+      "Perk3":"mercilessStorm.png",
+       "VisSpeed":"4,6",
+      "InvSpeed":"NULL",
+      "Terror":"24",
+      "Gender":"Female",
+      "Example":"Sadako Yamamura"
     },
 {
       "Name":"Dredge",
       "Perk1":"dissolution.png",
       "Perk2":"darknessRevealed.png",
-      "Perk3":"septicTouch.png"
+      "Perk3":"septicTouch.png",
+       "VisSpeed":"4,6",
+      "InvSpeed":"NULL",
+      "Terror":"32",
+      "Gender":"Unknown",
+      "Example":"Maybe the Entity"
     },
 {
       "Name":"Mastermind",
       "Perk1":"superiorAnatomy.png",
       "Perk2":"awakenedAwareness.png",
-      "Perk3":"terminus.png"
+      "Perk3":"terminus.png",
+       "VisSpeed":"4,6",
+      "InvSpeed":"NULL",
+      "Terror":"40",
+      "Gender":"Male",
+      "Example":"Albert Wesker"
     }
 ]
 }
