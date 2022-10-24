@@ -9,7 +9,8 @@
       "InvSpeed":"NULL",
       "Terror":"32",
       "Gender":"Male",
-      "Example":"Evan MacMillan"
+      "Example":"Evan MacMillan",
+      "DLC":"NULL"
     },
 {
       "Name":"Wraith",
@@ -20,7 +21,8 @@
       "InvSpeed":"6,0",
       "Terror":"32",
       "Gender":"Male",
-      "Example":"Philip Ojomo"
+      "Example":"Philip Ojomo",
+      "DLC":"NULL"
     },
 {
       "Name":"Hillbilly",
@@ -31,7 +33,8 @@
       "InvSpeed":"9,2",
       "Terror":"32",
       "Gender":"Male",
-      "Example":"Max Thompson Jr."
+      "Example":"Max Thompson Jr.",
+      "DLC":"NULL"
     },
 {
       "Name":"Nurse",
@@ -42,7 +45,8 @@
       "InvSpeed":"13,33",
       "Terror":"32",
       "Gender":"Female",
-      "Example":"Sally Smithson"
+      "Example":"Sally Smithson",
+      "DLC":"The Last Breath Chapter"
     },
 {
       "Name":"Shape",
@@ -53,7 +57,8 @@
       "InvSpeed":"4,6",
       "Terror":"0 / 16 / 32",
       "Gender":"Male",
-      "Example":"Michael Myers"
+      "Example":"Michael Myers",
+      "DLC":"The HALLOWEEN® Chapter"
     },
 {
       "Name":"Hag",
@@ -64,7 +69,8 @@
       "InvSpeed":"NULL",
       "Terror":"24",
       "Gender":"Female",
-      "Example":"Lisa Sherwood"
+      "Example":"Lisa Sherwood",
+      "DLC":"Of Flesh and Mud"
     },
 {
       "Name":"Doctor",
@@ -75,7 +81,8 @@
       "InvSpeed":"NULL",
       "Terror":"32",
       "Gender":"Male",
-      "Example":"Herman Carter"
+      "Example":"Herman Carter",
+      "DLC":"Spark of Madness"
     },
 {
       "Name":"Huntress",
@@ -86,7 +93,8 @@
       "InvSpeed":"3,08",
       "Terror":"20",
       "Gender":"Female",
-      "Example":"Anna"
+      "Example":"Anna",
+      "DLC":"A Lullaby for the Dark"
     },
 {
       "Name":"Cannibal",
@@ -97,7 +105,8 @@
       "InvSpeed":"NULL",
       "Terror":"32",
       "Gender":"Male",
-      "Example":"Bubba (Junior) Sawyer"
+      "Example":"Bubba (Junior) Sawyer",
+      "DLC":"LEATHERFACE™"
     },
 {
       "Name":"Nightmare",
@@ -108,7 +117,8 @@
       "InvSpeed":"NULL",
       "Terror":"32",
       "Gender":"Male",
-      "Example":"Frederick (Freddy) Charles Krueger"
+      "Example":"Frederick (Freddy) Charles Krueger",
+      "DLC":"A Nightmare on Elm Street™"
     },
 {
       "Name":"Pig",
@@ -119,7 +129,8 @@
       "InvSpeed":"3,6 - 6,4",
       "Terror":"32",
       "Gender":"Female",
-      "Example":"Amanda Young"
+      "Example":"Amanda Young",
+      "DLC":"The SAW® Chapter"
     },
 {
       "Name":"Clown",
@@ -130,7 +141,8 @@
       "InvSpeed":"NULL",
       "Terror":"32",
       "Gender":"Male",
-      "Example":"Kenneth (Jeffrey Hawk) Chase"
+      "Example":"Kenneth (Jeffrey Hawk) Chase",
+      "DLC":"Curtain Call"
     },
 {
       "Name":"Spirit",
@@ -141,7 +153,8 @@
       "InvSpeed":"7,04",
       "Terror":"24",
       "Gender":"Female",
-      "Example":"Rin Yamaoka"
+      "Example":"Rin Yamaoka",
+      "DLC":"Shattered Bloodline"
     },
 {
       "Name":"Legion",
@@ -152,7 +165,8 @@
       "InvSpeed":"5,2",
       "Terror":"32 - 40",
       "Gender":"Male & Female",
-      "Example":"Frank Morrison, Julie Kostenko, Susie Lavoie und Joey"
+      "Example":"Frank Morrison, Julie Kostenko, Susie Lavoie und Joey",
+      "DLC":"Darkness Among Us"
     },
 {
       "Name":"Plague",
@@ -163,7 +177,8 @@
       "InvSpeed":"NULL",
       "Terror":"32",
       "Gender":"Female",
-      "Example":"Adiris"
+      "Example":"Adiris",
+      "DLC":"Demise of the Faithful"
     },
 {
       "Name":"Ghost Face",
@@ -174,7 +189,8 @@
       "InvSpeed":"3,6",
       "Terror":"32",
       "Gender":"Male",
-      "Example":"Danny (Jed Olsen) Johnson"
+      "Example":"Danny (Jed Olsen) Johnson",
+      "DLC":"Ghost Face®"
     },
 {
       "Name":"Demogorgon",
@@ -185,7 +201,8 @@
       "InvSpeed":"NULL",
       "Terror":"32",
       "Gender":"Unknown",
-      "Example":"Unknown"
+      "Example":"Unknown",
+      "DLC":"Stranger Things"
     },
 {
       "Name":"Oni",
@@ -196,7 +213,8 @@
       "InvSpeed":"3,45 - 7,82",
       "Terror":"32",
       "Gender":"Male",
-      "Example":"Kazan Yamaoka"
+      "Example":"Kazan Yamaoka",
+      "DLC":"Cursed Legacy"
     },
 {
       "Name":"Deathslinger",
@@ -207,7 +225,8 @@
       "InvSpeed":"NULL",
       "Terror":"32",
       "Gender":"Male",
-      "Example":"Caleb Quinn"
+      "Example":"Caleb Quinn",
+      "DLC":"Chains of Hate"
     },
 {
       "Name":"Executioner",
@@ -218,7 +237,8 @@
       "InvSpeed":"3,68 - 4,4",
       "Terror":"32",
       "Gender":"Male",
-      "Example":"Pyrimid Head"
+      "Example":"Pyrimid Head",
+      "DLC":"Silent Hill"
     },
 {
       "Name":"Blight",
@@ -229,7 +249,8 @@
       "InvSpeed":"9,2",
       "Terror":"32",
       "Gender":"Male",
-      "Example":"Talbot Grimes"
+      "Example":"Talbot Grimes",
+      "DLC":"Descend Beyond"
     },
 {
       "Name":"Twins",
@@ -240,7 +261,8 @@
       "InvSpeed":"6,0 (Victor)",
       "Terror":"32",
       "Gender":"Male & Female",
-      "Example":"Victor & Charlotte Deshayes"
+      "Example":"Victor & Charlotte Deshayes",
+      "DLC":"A Binding of Kin"
     },
 {
       "Name":"Trickster",
@@ -251,7 +273,8 @@
       "InvSpeed":"3,86",
       "Terror":"24",
       "Gender":"Male",
-      "Example":"Ji-Woon Hak (학지운)"
+      "Example":"Ji-Woon Hak (학지운)",
+      "DLC":"All-Kill"
     },
 {
       "Name":"Nemesis",
@@ -262,7 +285,8 @@
       "InvSpeed":"3,8 (MR1 & MR2) - 4,0 (MR3)",
       "Terror":"32",
       "Gender":"Male",
-      "Example":"Nemesis T-Type"
+      "Example":"Nemesis T-Type",
+      "DLC":"Resident Evil™"
     },
 {
       "Name":"Cenobite",
@@ -273,7 +297,8 @@
       "InvSpeed":"NULL",
       "Terror":"32",
       "Gender":"Male",
-      "Example":"Elliot Spencer / Pinhead"
+      "Example":"Elliot Spencer / Pinhead",
+      "DLC":"Hellraiser™"
     },
 {
       "Name":"Artist",
@@ -284,7 +309,8 @@
       "InvSpeed":"NULL",
       "Terror":"32",
       "Gender":"Female",
-      "Example":"Carmina Mora"
+      "Example":"Carmina Mora",
+      "DLC":"Portrait of a Murder"
     },
 {
       "Name":"Onryō",
@@ -295,7 +321,8 @@
       "InvSpeed":"NULL",
       "Terror":"24",
       "Gender":"Female",
-      "Example":"Sadako Yamamura"
+      "Example":"Sadako Yamamura",
+      "DLC":"Sadako Rising"
     },
 {
       "Name":"Dredge",
@@ -306,7 +333,8 @@
       "InvSpeed":"NULL",
       "Terror":"32",
       "Gender":"Unknown",
-      "Example":"Maybe the Entity"
+      "Example":"Maybe the Entity",
+      "DLC":"Roots of Dread"
     },
 {
       "Name":"Mastermind",
@@ -317,7 +345,8 @@
       "InvSpeed":"NULL",
       "Terror":"40",
       "Gender":"Male",
-      "Example":"Albert Wesker"
+      "Example":"Albert Wesker",
+      "DLC":"Resident Evil™: PROJECT W"
     }
 ]
 }
