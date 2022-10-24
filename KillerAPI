@@ -2,99 +2,99 @@
 	"Killer":[
 	{
       "Name":"Trapper",
-      "Perk1":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784808184225923/unnervingPresence.png",
-      "Perk2":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784514142556180/brutalStrength.png",
-      "Perk3":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784426309627955/agitation.png"
+      "Perk1":"unnervingPresence.png",
+      "Perk2":"brutalStrength.png",
+      "Perk3":"agitation.png"
     },
 {
       "Name":"Wraith",
-      "Perk1":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784745227714590/predator.png",
-      "Perk2":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784430403260416/bloodhound.png",
-      "Perk3":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784761820385360/shadowborn.png"
+      "Perk1":"predator.png",
+      "Perk2":"bloodhound.png",
+      "Perk3":"shadowborn.png"
     },
 {
       "Name":"Hillbilly",
-      "Perk1":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784577656897556/enduring.png",
-      "Perk2":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784669956755506/lightborn.png",
-      "Perk3":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784807148228648/tinkerer.png"
+      "Perk1":"enduring.png",
+      "Perk2":"lightborn.png",
+      "Perk3":"tinkerer.png"
     },
 {
       "Name":"Nurse",
-      "Perk1":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784779088351293/stridor.png",
-      "Perk2":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784805441146961/thanatophobia.png",
-      "Perk3":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784426687103046/aNursesCalling.png"
+      "Perk1":"stridor.png",
+      "Perk2":"thanatophobia.png",
+      "Perk3":"aNursesCalling.png"
     },
 {
       "Name":"Shape",
-      "Perk1":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784759983296532/saveTheBestForLast.png",
-      "Perk2":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784744372076634/playWithYourFood.png",
-      "Perk3":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784577124212867/dyingLight.png"
+      "Perk1":"saveTheBestForLast.png",
+      "Perk2":"playWithYourFood.png",
+      "Perk3":"dyingLight.png"
     },
 {
       "Name":"Hag",
-      "Perk1":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784654311981146/hexTheThirdSeal.png",
-      "Perk2":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784627162255360/hexRuin.png",
-      "Perk3":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784618232594604/hexDevourHope.png"
+      "Perk1":"hexTheThirdSeal.png",
+      "Perk2":"hexRuin.png",
+      "Perk3":"hexDevourHope.png"
     },
 {
       "Name":"Doctor",
-      "Perk1":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784703372754944/overwhelmingPresence.png",
-      "Perk2":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784704123555871/monitorAndAbuse.png",
-      "Perk3":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784707218939985/overcharge.png"
+      "Perk1":"overwhelmingPresence.png",
+      "Perk2":"monitorAndAbuse.png",
+      "Perk3":"overcharge.png"
     },
 {
       "Name":"Huntress",
-      "Perk1":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784428180283464/beastOfPrey.png",
-      "Perk2":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784805034295376/territorialImperative.png",
-      "Perk3":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784625694257222/hexHuntressLullaby.png"
+      "Perk1":"beastOfPrey.png",
+      "Perk2":"territorialImperative.png",
+      "Perk3":"hexHuntressLullaby.png"
     },
 {
       "Name":"Cannibal",
-      "Perk1":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784669138854050/knockOut.png",
-      "Perk2":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784427739893852/barbecueAndChilli.png",
-      "Perk3":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784614390603896/franklinsDemise.png"
+      "Perk1":"knockOut.png",
+      "Perk2":"barbecueAndChilli.png",
+      "Perk3":"franklinsDemise.png"
     },
 {
       "Name":"Nightmare",
-      "Perk1":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784578873229444/fireUp.png",
-      "Perk2":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784746167238656/rememberMe.png",
-      "Perk3":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784425940525096/bloodWarden.png"
+      "Perk1":"fireUp.png",
+      "Perk2":"rememberMe.png",
+      "Perk3":"bloodWarden.png"
     },
 {
       "Name":"Pig",
-      "Perk1":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784616424841227/hangmansTrick.png",
-      "Perk2":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784780371804230/surveillance.png",
-      "Perk3":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784670703321148/makeYourChoice.png"
+      "Perk1":"hangmansTrick.png",
+      "Perk2":"surveillance.png",
+      "Perk3":"makeYourChoice.png"
     },
 {
       "Name":"Clown",
-      "Perk1":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784427370786906/bamboozle.png",
-      "Perk2":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784515581194240/coulrophobia.png",
-      "Perk3":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784744825069588/popGoesTheWeasel.png"
+      "Perk1":"bamboozle.png",
+      "Perk2":"coulrophobia.png",
+      "Perk3":"popGoesTheWeasel.png"
     },
 {
       "Name":"Spirit",
-      "Perk1":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784759580627074/spiritFury.png",
-      "Perk2":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784613983760476/hexHauntedGround.png",
-      "Perk3":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784745735245864/rancor.png"
+      "Perk1":"spiritFury.png",
+      "Perk2":"hexHauntedGround.png",
+      "Perk3":"rancor.png"
     },
 {
       "Name":"Legion",
-      "Perk1":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784553472540732/Discordance.png",
-      "Perk2":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784670309073116/MadGrit.png",
-      "Perk3":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784653879984208/IronMaiden.png"
+      "Perk1":"Discordance.png",
+      "Perk2":"MadGrit.png",
+      "Perk3":"IronMaiden.png"
     },
 {
       "Name":"Plague",
-      "Perk1":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784515052720219/corruptIntervention.png",
-      "Perk2":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784658233671820/infectiousFright.png",
-      "Perk3":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784550893047918/darkDevotion.png"
+      "Perk1":"corruptIntervention.png",
+      "Perk2":"infectiousFright.png",
+      "Perk3":"darkDevotion.png"
     },
 {
       "Name":"Ghost Face",
-      "Perk1":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784657772294255/imAllEars.png",
-      "Perk2":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784806619742218/thrillingTremors.png",
-      "Perk3":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784614797447238/furtiveChase.png"
+      "Perk1":"imAllEars.png",
+      "Perk2":"thrillingTremors.png",
+      "Perk3":"furtiveChase.png"
     },
 {
       "Name":"Demogorgon",
@@ -104,75 +104,75 @@
     },
 {
       "Name":"Oni",
-      "Perk1":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784810574970981/zanshinTactics.png",
-      "Perk2":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784429925126247/bloodEcho.png",
-      "Perk3":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784705012732014/nemesis.png"
+      "Perk1":"zanshinTactics.png",
+      "Perk2":"bloodEcho.png",
+      "Perk3":"nemesis_perk.png"
     },
 {
       "Name":"Deathslinger",
-      "Perk1":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784615170748566/gearhead.png",
-      "Perk2":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784552155529357/deadMansSwitch.png",
-      "Perk3":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784626793164831/hexRetribution.png"
+      "Perk1":"gearhead.png",
+      "Perk2":"deadMansSwitch.png",
+      "Perk3":"hexRetribution.png"
     },
 {
       "Name":"Executioner",
-      "Perk1":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784576717373532/forcedPenance.png",
-      "Perk2":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784807626391632/trailOfTorment.png",
-      "Perk3":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784552704978955/deathbound.png"
+      "Perk1":"forcedPenance.png",
+      "Perk2":"trailOfTorment.png",
+      "Perk3":"deathbound.png"
     },
 {
       "Name":"Blight",
-      "Perk1":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784550507159562/Dragons_grip.png",
-      "Perk2":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784616923967568/hexbloodfavour.png",
-      "Perk3":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784656727900242/HexUndying.png"
+      "Perk1":"Dragons_grip.png",
+      "Perk2":"hexbloodfavour.png",
+      "Perk3":"HexUndying.png"
     },
 {
       "Name":"Twins",
-      "Perk1":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784657067647078/hoarder.png",
-      "Perk2":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784706518499448/oppression.png",
-      "Perk3":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784513639223306/coupDeGrace.png"
+      "Perk1":"hoarder.png",
+      "Perk2":"oppression.png",
+      "Perk3":"coupDeGrace.png"
     },
 {
       "Name":"Trickster",
-      "Perk1":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784778647941160/starstruck.png",
-      "Perk2":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784617347588117/hexCrowdControl.png",
-      "Perk3":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784706157772870/noWayOut.png"
+      "Perk1":"starstruck.png",
+      "Perk2":"hexCrowdControl.png",
+      "Perk3":"noWayOut.png"
     },
 {
       "Name":"Nemesis",
-      "Perk1":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784669579251712/lethalPursuer.png",
-      "Perk2":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784657424175134/hysteria.png",
-      "Perk3":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784578197954560/eruption.png"
+      "Perk1":"lethalPursuer.png",
+      "Perk2":"hysteria.png",
+      "Perk3":"eruption.png"
     },
 {
       "Name":"Cenobite",
-      "Perk1":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784551757062316/deadlock.png",
-      "Perk2":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784626386325677/hexPlaything.png",
-      "Perk3":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784760713085088/scourgeHookGiftOfPain.png"
+      "Perk1":"deadlock.png",
+      "Perk2":"hexPlaything.png",
+      "Perk3":"scourgeHookGiftOfPain.png"
     },
 {
       "Name":"Artist",
-      "Perk1":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784615980240996/grimEmbrace.png",
-      "Perk2":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784761065426974/scourgeHookPainResonance.png",
-      "Perk3":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784626021408878/hexPentimento.png"
+      "Perk1":"grimEmbrace.png",
+      "Perk2":"scourgeHookPainResonance.png",
+      "Perk3":"hexPentimento.png"
     },
 {
       "Name":"Onryō",
-      "Perk1":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784760377548870/scourgeHookFloodsOfRage.png",
-      "Perk2":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784514608107651/callOfBrine.png",
-      "Perk3":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784703771230319/mercilessStorm.png"
+      "Perk1":"scourgeHookFloodsOfRage.png",
+      "Perk2":"callOfBrine.png",
+      "Perk3":"mercilessStorm.png"
     },
 {
       "Name":"Dredge",
-      "Perk1":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784553879375993/dissolution.png",
-      "Perk2":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784551224381560/darknessRevealed.png",
-      "Perk3":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784761463873600/septicTouch.png"
+      "Perk1":"dissolution.png",
+      "Perk2":"darknessRevealed.png",
+      "Perk3":"septicTouch.png"
     },
 {
       "Name":"Mastermind",
-      "Perk1":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784779897843782/superiorAnatomy.png",
-      "Perk2":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784427031040091/awakenedAwareness.png",
-      "Perk3":"https://cdn.discordapp.com/attachments/1033768101222809681/1033784778169778257/terminus.png"
+      "Perk1":"superiorAnatomy.png",
+      "Perk2":"awakenedAwareness.png",
+      "Perk3":"terminus.png"
     }
 ]
 }
