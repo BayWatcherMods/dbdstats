@@ -2,9 +2,9 @@
 	"Killer":[
 	{
       "Name":"Trapper",
-      "Perk1":"unnervingPresence.png",
-      "Perk2":"brutalStrength.png",
-      "Perk3":"agitation.png",
+      "Perk1":"unnervingPresence",
+      "Perk2":"brutalStrength",
+      "Perk3":"agitation",
       "VisSpeed":"4,6",
       "InvSpeed":"NULL",
       "Terror":"32",
