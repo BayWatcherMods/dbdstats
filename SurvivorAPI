@@ -2,105 +2,105 @@
   "Survivor":[
     {
       "Name":"Dwight Fairfield",
-      "Perk1":"https://cdn.discordapp.com/attachments/1033784307522748416/1033784930100056116/bond.png",
-      "Perk2":"https://cdn.discordapp.com/attachments/1033784307522748416/1033785104859922563/proveThyself.png",
-      "Perk3":"https://cdn.discordapp.com/attachments/1033784307522748416/1033785053576187966/leader.png"
+      "Perk1":"bond.png",
+      "Perk2":"proveThyself.png",
+      "Perk3":"leader.png"
     },
     {
       "Name":"Meg Thomas",
-      "Perk1":"https://cdn.discordapp.com/attachments/1033784307522748416/1033785105321316393/quickAndQuiet.png",
-      "Perk2":"https://cdn.discordapp.com/attachments/1033784307522748416/1033785166365204590/sprintBurst.png",
-      "Perk3":"https://cdn.discordapp.com/attachments/1033784307522748416/1033784909111775272/adrenaline.png"
+      "Perk1":"quickAndQuiet.png",
+      "Perk2":"sprintBurst.png",
+      "Perk3":"adrenaline.png"
     },
     {
       "Name":"Claudette Morel",
-      "Perk1":"https://cdn.discordapp.com/attachments/1033784307522748416/1033784996470718514/empathy.png",
-      "Perk2":"https://cdn.discordapp.com/attachments/1033784307522748416/1033784931958141008/botanyKnowledge.png",
-      "Perk3":"https://cdn.discordapp.com/attachments/1033784307522748416/1033785137063800932/self-Care.png"
+      "Perk1":"empathy.png",
+      "Perk2":"botanyKnowledge.png",
+      "Perk3":"self-Care.png"
     },
     {
       "Name":"Jake Park",
-      "Perk1":"https://cdn.discordapp.com/attachments/1033784307522748416/1033785052741501028/ironWill.png",
-      "Perk2":"https://cdn.discordapp.com/attachments/1033784307522748416/1033784978057732206/calmSpirit.png",
-      "Perk3":"https://cdn.discordapp.com/attachments/1033784307522748416/1033785136271077487/saboteur.png"
+      "Perk1":"ironWill.png",
+      "Perk2":"calmSpirit.png",
+      "Perk3":"saboteur.png"
     },
     {
       "Name":"Nea Karlsson",
-      "Perk1":"https://cdn.discordapp.com/attachments/1033784307522748416/1033784915264802897/balancedLanding.png",
-      "Perk2":"https://cdn.discordapp.com/attachments/1033784307522748416/1033785189035409478/urbanEvasion.png",
-      "Perk3":"https://cdn.discordapp.com/attachments/1033784307522748416/1033785167334084688/streetwise.png"
+      "Perk1":"balancedLanding.png",
+      "Perk2":"urbanEvasion.png",
+      "Perk3":"streetwise.png"
     },
     {
       "Name":"Laurie Strode",
-      "Perk1":"https://cdn.discordapp.com/attachments/1033784307522748416/1033785164762972221/soleSurvivor.png",
-      "Perk2":"https://cdn.discordapp.com/attachments/1033784307522748416/1033785090351841430/objectOfObsession.png",
-      "Perk3":"https://cdn.discordapp.com/attachments/1033784307522748416/1033784998328815626/decisiveStrike.png"
+      "Perk1":"soleSurvivor.png",
+      "Perk2":"objectOfObsession.png",
+      "Perk3":"decisiveStrike.png"
     },
     {
       "Name":"Ace Visconti",
-      "Perk1":"https://cdn.discordapp.com/attachments/1033784307522748416/1033785091090034788/open-Handed.png",
-      "Perk2":"https://cdn.discordapp.com/attachments/1033784307522748416/1033785188502745119/upTheAnte.png",
-      "Perk3":"https://cdn.discordapp.com/attachments/1033784307522748416/1033784908277088316/aceInTheHole.png"
+      "Perk1":"open-Handed.png",
+      "Perk2":"upTheAnte.png",
+      "Perk3":"aceInTheHole.png"
     },
     {
       "Name":"William Overbeck",
-      "Perk1":"https://cdn.discordapp.com/attachments/1033784307522748416/1033785053999792259/leftBehind.png",
-      "Perk2":"https://cdn.discordapp.com/attachments/1033784307522748416/1033784931551289515/borrowedTime.png",
-      "Perk3":"https://cdn.discordapp.com/attachments/1033784307522748416/1033785188032975028/unbreakable.png"
+      "Perk1":"leftBehind.png",
+      "Perk2":"borrowedTime.png",
+      "Perk3":"unbreakable.png"
     },
     {
       "Name":"Feng Min",
-      "Perk1":"https://cdn.discordapp.com/attachments/1033784307522748416/1033785167816441886/technician.png",
-      "Perk2":"https://cdn.discordapp.com/attachments/1033784307522748416/1033785054847045742/lithe.png",
-      "Perk3":"https://cdn.discordapp.com/attachments/1033784307522748416/1033784910621712435/alert.png"
+      "Perk1":"technician.png",
+      "Perk2":"lithe.png",
+      "Perk3":"alert.png"
     },
     {
       "Name":"David King",
-      "Perk1":"https://cdn.discordapp.com/attachments/1033784307522748416/1033785187525472306/wereGonnaLiveForever.png",
-      "Perk2":"https://cdn.discordapp.com/attachments/1033784307522748416/1033784976572944464/deadHard.png",
-      "Perk3":"https://cdn.discordapp.com/attachments/1033784307522748416/1033785052305305610/noMither.png"
+      "Perk1":"wereGonnaLiveForever.png",
+      "Perk2":"deadHard.png",
+      "Perk3":"noMither.png"
     },
     {
       "Name":"Quentin Smith",
-      "Perk1":"https://cdn.discordapp.com/attachments/1033784307522748416/1033785191711387799/wakeUp.png",
-      "Perk2":"https://cdn.discordapp.com/attachments/1033784307522748416/1033785092822278164/pharmacy.png",
-      "Perk3":"https://cdn.discordapp.com/attachments/1033784307522748416/1033785190159491072/vigil.png"
+      "Perk1":"wakeUp.png",
+      "Perk2":"pharmacy.png",
+      "Perk3":"vigil.png"
     },
     {
       "Name":"Detective Tapp",
-      "Perk1":"https://cdn.discordapp.com/attachments/1033784307522748416/1033785168495906826/tenacity.png",
-      "Perk2":"https://cdn.discordapp.com/attachments/1033784307522748416/1033785000459501649/detectivesHunch.png",
-      "Perk3":"https://cdn.discordapp.com/attachments/1033784307522748416/1033785166893678652/stakeOut.png"
+      "Perk1":"tenacity.png",
+      "Perk2":"detectivesHunch.png",
+      "Perk3":"stakeOut.png"
     },
     {
       "Name":"Kate Denson",
-      "Perk1":"https://cdn.discordapp.com/attachments/1033784307522748416/1033784975742488627/danceWithMe.png",
-      "Perk2":"https://cdn.discordapp.com/attachments/1033784307522748416/1033785197008797848/windowsOfOpportunity.png",
-      "Perk3":"https://cdn.discordapp.com/attachments/1033784307522748416/1033784929726779462/boilOver.png"
+      "Perk1":"danceWithMe.png",
+      "Perk2":"windowsOfOpportunity.png",
+      "Perk3":"boilOver.png"
     },
     {
       "Name":"Adam Francis",
-      "Perk1":"https://cdn.discordapp.com/attachments/1033784307522748416/1033785001315156128/diversion.png",
-      "Perk2":"https://cdn.discordapp.com/attachments/1033784307522748416/1033784999448682568/deliverance.png",
-      "Perk3":"https://cdn.discordapp.com/attachments/1033784307522748416/1033784914862162002/autodidact.png"
+      "Perk1":"diversion.png",
+      "Perk2":"deliverance.png",
+      "Perk3":"autodidact.png"
     },
     {
       "Name":"Jeff Johansen",
-      "Perk1":"https://cdn.discordapp.com/attachments/1033784307522748416/1033784928485265469/breakdown.png",
-      "Perk2":"https://cdn.discordapp.com/attachments/1033784307522748416/1033784909942231040/aftercare.png",
-      "Perk3":"https://cdn.discordapp.com/attachments/1033784307522748416/1033785000845381672/distortion.png"
+      "Perk1":"breakdown.png",
+      "Perk2":"aftercare.png",
+      "Perk3":"distortion.png"
     },
     {
       "Name":"Jane Romero",
-      "Perk1":"https://cdn.discordapp.com/attachments/1033784307522748416/1033785165115314216/solidarity.png",
-      "Perk2":"https://cdn.discordapp.com/attachments/1033784307522748416/1033785089550721094/poised.png",
-      "Perk3":"https://cdn.discordapp.com/attachments/1033784307522748416/1033785028334866552/headOn.png"
+      "Perk1":"solidarity.png",
+      "Perk2":"poised.png",
+      "Perk3":"headOn.png"
     },
     {
       "Name":"Ash Williams",
-      "Perk1":"https://cdn.discordapp.com/attachments/1033784307522748416/1033785032306856077/flip-Flop.png",
-      "Perk2":"https://cdn.discordapp.com/attachments/1033784307522748416/1033784977323733084/buckleUp.png",
-      "Perk3":"https://cdn.discordapp.com/attachments/1033784307522748416/1033785056306659368/mettleOfMan.png"
+      "Perk1":"flip-Flop.png",
+      "Perk2":"buckleUp.png",
+      "Perk3":"mettleOfMan.png"
     },
     {
       "Name":"Nancy Wheeler",
@@ -116,87 +116,87 @@
     },
     {
       "Name":"Yui Kimura",
-      "Perk1":"https://cdn.discordapp.com/attachments/1033784307522748416/1033785055664951397/luckyBreak.png",
-      "Perk2":"https://cdn.discordapp.com/attachments/1033784307522748416/1033784911317979146/anyMeansNecessary.png",
-      "Perk3":"https://cdn.discordapp.com/attachments/1033784307522748416/1033784976954630245/breakout.png"
+      "Perk1":"luckyBreak.png",
+      "Perk2":"anyMeansNecessary.png",
+      "Perk3":"breakout.png"
     },
     {
       "Name":"Zarina Kassir",
-      "Perk1":"https://cdn.discordapp.com/attachments/1033784307522748416/1033785090729316432/offTheRecord.png",
-      "Perk2":"https://cdn.discordapp.com/attachments/1033784307522748416/1033785106818670632/redHerring.png",
-      "Perk3":"https://cdn.discordapp.com/attachments/1033784307522748416/1033785027940581466/forThePeople.png"
+      "Perk1":"offTheRecord.png",
+      "Perk2":"redHerring.png",
+      "Perk3":"forThePeople.png"
     },
     {
       "Name":"Cheryl Mason",
-      "Perk1":"https://cdn.discordapp.com/attachments/1033784307522748416/1033785165580877824/soulGuard.png",
-      "Perk2":"https://cdn.discordapp.com/attachments/1033784307522748416/1033784929303142571/bloodPact.png",
-      "Perk3":"https://cdn.discordapp.com/attachments/1033784307522748416/1033785107191955546/repressedAlliance.png"
+      "Perk1":"soulGuard.png",
+      "Perk2":"bloodPact.png",
+      "Perk3":"repressedAlliance.png"
     },
     {
       "Name":"Felix Richter",
-      "Perk1":"https://cdn.discordapp.com/attachments/1033784307522748416/1033785190629249124/Visionary.png",
-      "Perk2":"https://cdn.discordapp.com/attachments/1033784307522748416/1033785000056860692/Desperate_Measures.png",
-      "Perk3":"https://cdn.discordapp.com/attachments/1033784307522748416/1033784977722179614/built_to_last.png"
+      "Perk1":"Visionary.png",
+      "Perk2":"Desperate_Measures.png",
+      "Perk3":"built_to_last.png"
     },
     {
       "Name":"Élodie Rakoto",
-      "Perk1":"https://cdn.discordapp.com/attachments/1033784307522748416/1033784914371420180/appraisal.png",
-      "Perk2":"https://cdn.discordapp.com/attachments/1033784307522748416/1033784997800325130/deception.png",
-      "Perk3":"https://cdn.discordapp.com/attachments/1033784307522748416/1033785103995900116/powerStruggle.png"
+      "Perk1":"appraisal.png",
+      "Perk2":"deception.png",
+      "Perk3":"powerStruggle.png"
     },
     {
       "Name":"Yun-Jin Lee",
-      "Perk1":"https://cdn.discordapp.com/attachments/1033784307522748416/1033785031350571008/fastTrack.png",
-      "Perk2":"https://cdn.discordapp.com/attachments/1033784307522748416/1033785135000203274/smashHit.png",
-      "Perk3":"https://cdn.discordapp.com/attachments/1033784307522748416/1033785137558716446/self-Preservation.png"
+      "Perk1":"fastTrack.png",
+      "Perk2":"smashHit.png",
+      "Perk3":"self-Preservation.png"
     },
     {
       "Name":"Jill Valentine",
-      "Perk1":"https://cdn.discordapp.com/attachments/1033784307522748416/1033784975318843544/counterforce.png",
-      "Perk2":"https://cdn.discordapp.com/attachments/1033784307522748416/1033785135432208444/resurgence.png",
-      "Perk3":"https://cdn.discordapp.com/attachments/1033784307522748416/1033784928934039552/blastMine.png"
+      "Perk1":"counterforce.png",
+      "Perk2":"resurgence.png",
+      "Perk3":"blastMine.png"
     },
     {
       "Name":"Leon S. Kennedy",
-      "Perk1":"https://cdn.discordapp.com/attachments/1033784307522748416/1033784907551494245/biteTheBullet.png",
-      "Perk2":"https://cdn.discordapp.com/attachments/1033784307522748416/1033785031858061384/flashbang.png",
-      "Perk3":"https://cdn.discordapp.com/attachments/1033784307522748416/1033785135809712209/rookieSpirit.png"
+      "Perk1":"biteTheBullet.png",
+      "Perk2":"flashbang.png",
+      "Perk3":"rookieSpirit.png"
     },
     {
       "Name":"Mikaela Reid",
-      "Perk1":"https://cdn.discordapp.com/attachments/1033784307522748416/1033784978452004975/clairvoyance.png",
-      "Perk2":"https://cdn.discordapp.com/attachments/1033784307522748416/1033784930506907688/boonCircleOfHealing.png",
-      "Perk3":"https://cdn.discordapp.com/attachments/1033784307522748416/1033784931173810256/boonShadowStep.png"
+      "Perk1":"clairvoyance.png",
+      "Perk2":"boonCircleOfHealing.png",
+      "Perk3":"boonShadowStep.png"
     },
     {
       "Name":"Jonah Vasquez",
-      "Perk1":"https://cdn.discordapp.com/attachments/1033784307522748416/1033785091433971782/overcome.png",
-      "Perk2":"https://cdn.discordapp.com/attachments/1033784307522748416/1033784978804314183/correctiveAction.png",
-      "Perk3":"https://cdn.discordapp.com/attachments/1033784307522748416/1033784930850844754/boonExponential.png"
+      "Perk1":"overcome.png",
+      "Perk2":"correctiveAction.png",
+      "Perk3":"boonExponential.png"
     },
     {
       "Name":"Yoichi Asakawa",
-      "Perk1":"https://cdn.discordapp.com/attachments/1033784307522748416/1033785092293804032/parentalGuidance.png",
-      "Perk2":"https://cdn.discordapp.com/attachments/1033784307522748416/1033785001747173468/empathicConnection.png",
-      "Perk3":"https://cdn.discordapp.com/attachments/1033784307522748416/1033822007281852487/boonDarkTheory.png"
+      "Perk1":"parentalGuidance.png",
+      "Perk2":"empathicConnection.png",
+      "Perk3":"boonDarkTheory.png"
     },
     {
       "Name":"Haddie Kaur",
-      "Perk1":"https://cdn.discordapp.com/attachments/1033784307522748416/1033785030419415121/innerFocus.png",
-      "Perk2":"https://cdn.discordapp.com/attachments/1033784307522748416/1033785107661733968/residualManifest.png",
-      "Perk3":"https://cdn.discordapp.com/attachments/1033784307522748416/1033785091807256678/overzealous.png"
+      "Perk1":"innerFocus.png",
+      "Perk2":"residualManifest.png",
+      "Perk3":"overzealous.png"
     },
     {
       "Name":"Ada Wong",
-      "Perk1":"https://cdn.discordapp.com/attachments/1033784307522748416/1033785196635488327/wiretap.png",
-      "Perk2":"https://cdn.discordapp.com/attachments/1033784307522748416/1033785105799446528/reactiveHealing.png",
-      "Perk3":"https://cdn.discordapp.com/attachments/1033784307522748416/1033785055237128252/lowProfile.png"
+      "Perk1":"wiretap.png",
+      "Perk2":"reactiveHealing.png",
+      "Perk3":"lowProfile.png"
     },
     {
       "Name":"Rebecca Chambers",
-      "Perk1":"https://cdn.discordapp.com/attachments/1033784307522748416/1033784915747164261/betterThanNew.png",
-      "Perk2":"https://cdn.discordapp.com/attachments/1033784307522748416/1033785106327933038/reassurance.png",
-      "Perk3":"https://cdn.discordapp.com/attachments/1033784307522748416/1033785029291151410/hyperfocus.png"
+      "Perk1":"betterThanNew.png",
+      "Perk2":"reassurance.png",
+      "Perk3":"hyperfocus.png"
     }
     ]
 }
