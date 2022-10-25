@@ -2,201 +2,201 @@
   "Survivor":[
     {
       "Name":"Dwight Fairfield",
-      "Perk1":"bond.png",
-      "Perk2":"proveThyself.png",
-      "Perk3":"leader.png"
+      "Perk1":"bond",
+      "Perk2":"proveThyself",
+      "Perk3":"leader"
     },
     {
       "Name":"Meg Thomas",
-      "Perk1":"quickAndQuiet.png",
-      "Perk2":"sprintBurst.png",
-      "Perk3":"adrenaline.png"
+      "Perk1":"quickAndQuiet",
+      "Perk2":"sprintBurst",
+      "Perk3":"adrenaline"
     },
     {
       "Name":"Claudette Morel",
-      "Perk1":"empathy.png",
-      "Perk2":"botanyKnowledge.png",
-      "Perk3":"self-Care.png"
+      "Perk1":"empathy",
+      "Perk2":"botanyKnowledge",
+      "Perk3":"self-Care"
     },
     {
       "Name":"Jake Park",
-      "Perk1":"ironWill.png",
-      "Perk2":"calmSpirit.png",
-      "Perk3":"saboteur.png"
+      "Perk1":"ironWill",
+      "Perk2":"calmSpirit",
+      "Perk3":"saboteur"
     },
     {
       "Name":"Nea Karlsson",
-      "Perk1":"balancedLanding.png",
-      "Perk2":"urbanEvasion.png",
-      "Perk3":"streetwise.png"
+      "Perk1":"balancedLanding",
+      "Perk2":"urbanEvasion",
+      "Perk3":"streetwise"
     },
     {
       "Name":"Laurie Strode",
-      "Perk1":"soleSurvivor.png",
-      "Perk2":"objectOfObsession.png",
-      "Perk3":"decisiveStrike.png"
+      "Perk1":"soleSurvivor",
+      "Perk2":"objectOfObsession",
+      "Perk3":"decisiveStrike"
     },
-    {
+{
       "Name":"Ace Visconti",
-      "Perk1":"open-Handed.png",
-      "Perk2":"upTheAnte.png",
-      "Perk3":"aceInTheHole.png"
+      "Perk1":"open-Handed",
+      "Perk2":"upTheAnte",
+      "Perk3":"aceInTheHole"
     },
     {
       "Name":"William Overbeck",
-      "Perk1":"leftBehind.png",
-      "Perk2":"borrowedTime.png",
-      "Perk3":"unbreakable.png"
+      "Perk1":"leftBehind",
+      "Perk2":"borrowedTime",
+      "Perk3":"unbreakable"
     },
     {
-      "Name":"Feng Min",
-      "Perk1":"technician.png",
-      "Perk2":"lithe.png",
-      "Perk3":"alert.png"
+    "Name":"Feng Min",
+      "Perk1":"technician",
+      "Perk2":"lithe",
+      "Perk3":"alert"
     },
     {
-      "Name":"David King",
-      "Perk1":"wereGonnaLiveForever.png",
-      "Perk2":"deadHard.png",
-      "Perk3":"noMither.png"
+    "Name":"David King",
+      "Perk1":"wereGonnaLiveForever",
+      "Perk2":"deadHard",
+      "Perk3":"noMither"
     },
     {
-      "Name":"Quentin Smith",
-      "Perk1":"wakeUp.png",
-      "Perk2":"pharmacy.png",
-      "Perk3":"vigil.png"
+    "Name":"Quentin Smith",
+      "Perk1":"wakeUp",
+      "Perk2":"pharmacy",
+      "Perk3":"vigil"
     },
     {
-      "Name":"Detective Tapp",
-      "Perk1":"tenacity.png",
-      "Perk2":"detectivesHunch.png",
-      "Perk3":"stakeOut.png"
+    "Name":"Detective Tapp",
+      "Perk1":"tenacity",
+      "Perk2":"detectivesHunch",
+      "Perk3":"stakeOut"
     },
     {
-      "Name":"Kate Denson",
-      "Perk1":"danceWithMe.png",
-      "Perk2":"windowsOfOpportunity.png",
-      "Perk3":"boilOver.png"
+    "Name":"Kate Denson",
+      "Perk1":"danceWithMe",
+      "Perk2":"windowsOfOpportunity",
+      "Perk3":"boilOver"
     },
     {
-      "Name":"Adam Francis",
-      "Perk1":"diversion.png",
-      "Perk2":"deliverance.png",
-      "Perk3":"autodidact.png"
+    "Name":"Adam Francis",
+      "Perk1":"diversion",
+      "Perk2":"deliverance",
+      "Perk3":"autodidact"
     },
     {
-      "Name":"Jeff Johansen",
-      "Perk1":"breakdown.png",
-      "Perk2":"aftercare.png",
-      "Perk3":"distortion.png"
+    "Name":"Jeff Johansen",
+      "Perk1":"breakdown",
+      "Perk2":"aftercare",
+      "Perk3":"distortion"
     },
     {
-      "Name":"Jane Romero",
-      "Perk1":"solidarity.png",
-      "Perk2":"poised.png",
-      "Perk3":"headOn.png"
+    "Name":"Jane Romero",
+      "Perk1":"solidarity",
+      "Perk2":"poised",
+      "Perk3":"headOn"
     },
     {
-      "Name":"Ash Williams",
-      "Perk1":"flip-Flop.png",
-      "Perk2":"buckleUp.png",
-      "Perk3":"mettleOfMan.png"
+    "Name":"Ash Williams",
+      "Perk1":"flip-Flop",
+      "Perk2":"buckleUp",
+      "Perk3":"mettleOfMan"
     },
     {
-      "Name":"Nancy Wheeler",
+    "Name":"Nancy Wheeler",
       "Perk1":"",
       "Perk2":"",
       "Perk3":""
     },
     {
-      "Name":"Steve Harrington",
+    "Name":"Steve Harrington",
       "Perk1":"",
       "Perk2":"",
       "Perk3":""
     },
     {
-      "Name":"Yui Kimura",
-      "Perk1":"luckyBreak.png",
-      "Perk2":"anyMeansNecessary.png",
-      "Perk3":"breakout.png"
+    "Name":"Yui Kimura",
+      "Perk1":"luckyBreak",
+      "Perk2":"anyMeansNecessary",
+      "Perk3":"breakout"
     },
     {
-      "Name":"Zarina Kassir",
-      "Perk1":"offTheRecord.png",
-      "Perk2":"redHerring.png",
-      "Perk3":"forThePeople.png"
+    "Name":"Zarina Kassir",
+      "Perk1":"offTheRecord",
+      "Perk2":"redHerring",
+      "Perk3":"forThePeople"
     },
     {
-      "Name":"Cheryl Mason",
-      "Perk1":"soulGuard.png",
-      "Perk2":"bloodPact.png",
-      "Perk3":"repressedAlliance.png"
+    "Name":"Cheryl Mason",
+      "Perk1":"soulGuard",
+      "Perk2":"bloodPact",
+      "Perk3":"repressedAlliance"
     },
     {
-      "Name":"Felix Richter",
-      "Perk1":"Visionary.png",
-      "Perk2":"Desperate_Measures.png",
-      "Perk3":"built_to_last.png"
+    "Name":"Felix Richter",
+      "Perk1":"Visionary",
+      "Perk2":"Desperate_Measures",
+      "Perk3":"built_to_last"
     },
     {
-      "Name":"Élodie Rakoto",
-      "Perk1":"appraisal.png",
-      "Perk2":"deception.png",
-      "Perk3":"powerStruggle.png"
+    "Name":"Élodie Rakoto",
+      "Perk1":"appraisal",
+      "Perk2":"deception",
+      "Perk3":"powerStruggle"
     },
     {
-      "Name":"Yun-Jin Lee",
-      "Perk1":"fastTrack.png",
-      "Perk2":"smashHit.png",
-      "Perk3":"self-Preservation.png"
+    "Name":"Yun-Jin Lee",
+      "Perk1":"fastTrack",
+      "Perk2":"smashHit",
+      "Perk3":"self-Preservation"
     },
     {
-      "Name":"Jill Valentine",
-      "Perk1":"counterforce.png",
-      "Perk2":"resurgence.png",
-      "Perk3":"blastMine.png"
+    "Name":"Jill Valentine",
+      "Perk1":"counterforce",
+      "Perk2":"resurgence",
+      "Perk3":"blastMine"
     },
     {
-      "Name":"Leon S. Kennedy",
-      "Perk1":"biteTheBullet.png",
-      "Perk2":"flashbang.png",
-      "Perk3":"rookieSpirit.png"
+    "Name":"Leon S. Kennedy",
+      "Perk1":"biteTheBullet",
+      "Perk2":"flashbang",
+      "Perk3":"rookieSpirit"
     },
     {
-      "Name":"Mikaela Reid",
-      "Perk1":"clairvoyance.png",
-      "Perk2":"boonCircleOfHealing.png",
-      "Perk3":"boonShadowStep.png"
+    "Name":"Mikaela Reid",
+      "Perk1":"clairvoyance",
+      "Perk2":"boonCircleOfHealing",
+      "Perk3":"boonShadowStep"
     },
     {
-      "Name":"Jonah Vasquez",
-      "Perk1":"overcome.png",
-      "Perk2":"correctiveAction.png",
-      "Perk3":"boonExponential.png"
+    "Name":"Jonah Vasquez",
+      "Perk1":"overcome",
+      "Perk2":"correctiveAction",
+      "Perk3":"boonExponential"
     },
     {
-      "Name":"Yoichi Asakawa",
-      "Perk1":"parentalGuidance.png",
-      "Perk2":"empathicConnection.png",
-      "Perk3":"boonDarkTheory.png"
+    "Name":"Yoichi Asakawa",
+      "Perk1":"parentalGuidance",
+      "Perk2":"empathicConnection",
+      "Perk3":"boonDarkTheory"
     },
     {
-      "Name":"Haddie Kaur",
-      "Perk1":"innerFocus.png",
-      "Perk2":"residualManifest.png",
-      "Perk3":"overzealous.png"
+    "Name":"Haddie Kaur",
+      "Perk1":"innerFocus",
+      "Perk2":"residualManifest",
+      "Perk3":"overzealous"
     },
     {
-      "Name":"Ada Wong",
-      "Perk1":"wiretap.png",
-      "Perk2":"reactiveHealing.png",
-      "Perk3":"lowProfile.png"
+    "Name":"Ada Wong",
+      "Perk1":"wiretap",
+      "Perk2":"reactiveHealing",
+      "Perk3":"lowProfile"
     },
     {
-      "Name":"Rebecca Chambers",
-      "Perk1":"betterThanNew.png",
-      "Perk2":"reassurance.png",
-      "Perk3":"hyperfocus.png"
+    "Name":"Rebecca Chambers",
+      "Perk1":"betterThanNew",
+      "Perk2":"reassurance",
+      "Perk3":"hyperfocus"
     }
     ]
 }
