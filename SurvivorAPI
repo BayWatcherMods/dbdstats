@@ -38,7 +38,7 @@
     },
 {
       "Name":"Ace Visconti",
-      "Perk1":"open-Handed",
+      "Perk1":"open_Handed",
       "Perk2":"upTheAnte",
       "Perk3":"aceInTheHole"
     },
@@ -98,7 +98,7 @@
     },
     {
     "Name":"Ash Williams",
-      "Perk1":"flip-Flop",
+      "Perk1":"flip_Flop",
       "Perk2":"buckleUp",
       "Perk3":"mettleOfMan"
     },
@@ -148,7 +148,7 @@
     "Name":"Yun-Jin Lee",
       "Perk1":"fastTrack",
       "Perk2":"smashHit",
-      "Perk3":"self-Preservation"
+      "Perk3":"self_Preservation"
     },
     {
     "Name":"Jill Valentine",
